@@ -29,7 +29,7 @@ This endeavor demonstrates vital data science capabilities:
 ## 📊 The Data Behind It
 At the heart of this project lies the Adult Census Income Dataset. It's packed with demographic and employment details like age, education, occupation, and more, providing a rich foundation for our predictions.
 
-- Source: Grab it from the <a href="https://archive.ics.uci.edu/dataset/2/adult" target="_blank">GitHub Profile</a> Repository or various Kaggle sources.
+- Source: Grab it from the <a href="https://archive.ics.uci.edu/dataset/2/adult" target="_blank">UCI Machine Learning Repository</a> Repository or various Kaggle sources.
 
 ## 🚀 How We Built It
 Our prediction journey follows a clear, powerful workflow: 
