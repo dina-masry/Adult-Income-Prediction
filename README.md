@@ -1,5 +1,4 @@
-Adult Income Prediction
-✨ Project Overview
+Adult Income Prediction✨ Project Overview
 Welcome to the Adult Income Prediction project! This repository contains a machine learning solution designed to predict whether an individual's annual income exceeds $50,000 based on various demographic and employment factors from census data. This is a classic binary classification problem that leverages robust data preprocessing and powerful machine learning algorithms to uncover insights into income determinants.
 
 🎯 Objective
