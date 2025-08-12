@@ -10,9 +10,9 @@
 ## 🎯 Our Mission
 Our core objective is to build a precise predictive model that categorizes individuals into one of two income groups:
 
-- >50K: High earners (income over $50,000/year).
+-  '>50K ' : High earners (income over $50,000/year).
 
-- <=50K: Lower earners (income up to $50,000/year).
+- ' <=50K ' : Lower earners (income up to $50,000/year).
 
 This endeavor demonstrates vital data science capabilities:
 
@@ -29,7 +29,7 @@ This endeavor demonstrates vital data science capabilities:
 ## 📊 The Data Behind It
 At the heart of this project lies the Adult Census Income Dataset. It's packed with demographic and employment details like age, education, occupation, and more, providing a rich foundation for our predictions.
 
-- Source: Grab it from the [https://archive.ics.uci.edu/dataset/2/adult] UCI Machine Learning Repository or various Kaggle sources.
+- Source: Grab it from the <a href: 'https://archive.ics.uci.edu/dataset/2/adult' >UCI Machine Learning </a>Repository or various Kaggle sources.
 
 ## 🚀 How We Built It
 Our prediction journey follows a clear, powerful workflow: 
